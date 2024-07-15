@@ -1,0 +1,257 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Nike Air Zoom Pegasus 38",
+        "description": "Responsive training shoes designed for comfort and speed on the track or road.",
+        "image": "/images/nike-pegasus.jpg",
+        "price": 129.99
+      },
+      {
+        "id": 2,
+        "name": "Wilson Pro Staff RF97 Autograph Tennis Racket",
+        "description": "Roger Federer's weapon of choice, offering power and precision for advanced players.",
+        "image": "/images/wilson-tennis-racket.jpg",
+        "price": 219.99
+      },
+      {
+        "id": 3,
+        "name": "Adidas Predator Freak.1 Football Boots",
+        "description": "Enhanced control and stability for footballers, featuring advanced grip and agility.",
+        "image": "/images/adidas-football-boots.jpg",
+        "price": 179.99
+      },
+      {
+        "id": 4,
+        "name": "Under Armour Men's Armour Fleece Joggers",
+        "description": "Comfortable and warm joggers for training or casual wear, with moisture-wicking technology.",
+        "image": "/images/under-armour-joggers.jpg",
+        "price": 59.99
+      },
+      {
+        "id": 5,
+        "name": "Yonex Duora 10 Badminton Racket",
+        "description": "Dual-sided racket designed for both offensive and defensive play in badminton.",
+        "image": "/images/yonex-badminton-racket.jpg",
+        "price": 169.99
+      },
+      {
+        "id": 6,
+        "name": "Garmin Forerunner 945 GPS Smartwatch",
+        "description": "Advanced GPS running/triathlon smartwatch with music, maps, and Garmin Pay.",
+        "image": "/images/garmin-smartwatch.jpg",
+        "price": 499.99
+      },
+      {
+        "id": 7,
+        "name": "Rawlings Heart of the Hide Baseball Glove",
+        "description": "Premium leather baseball glove designed for elite players seeking performance and durability.",
+        "image": "/images/rawlings-baseball-glove.jpg",
+        "price": 299.99
+      },
+      {
+        "id": 8,
+        "name": "Molten Official FIBA Basketball",
+        "description": "Official FIBA basketball made from premium composite leather for enhanced grip and durability.",
+        "image": "/images/molten-basketball.jpg",
+        "price": 89.99
+      },
+      {
+        "id": 9,
+        "name": "Oakley Radar EV Path Sunglasses",
+        "description": "High-performance sports sunglasses with enhanced field of view and Prizm lens technology.",
+        "image": "/images/oakley-sunglasses.jpg",
+        "price": 179.99
+      },
+      {
+        "id": 10,
+        "name": "Wilson Ultra 100 V3 Tennis Racquet",
+        "description": "Versatile tennis racquet for intermediate to advanced players, offering power and spin control.",
+        "image": "/images/wilson-tennis-racquet.jpg",
+        "price": 229.99
+      },
+      {
+        "id": 11,
+        "name": "Nike Mercurial Superfly 8 Elite FG Football Boots",
+        "description": "High-performance football boots with Flyknit construction for speed and agility on the pitch.",
+        "image": "/images/nike-football-boots.jpg",
+        "price": 279.99
+      },
+      {
+        "id": 12,
+        "name": "Yeti Tundra 65 Cooler",
+        "description": "Heavy-duty cooler for outdoor adventures, with superior insulation and durable construction.",
+        "image": "/images/yeti-cooler.jpg",
+        "price": 349.99
+      },
+      {
+        "id": 13,
+        "name": "Under Armour Men's Tech 2.0 Short Sleeve T-Shirt",
+        "description": "Lightweight and breathable training t-shirt for comfort during workouts.",
+        "image": "/images/under-armour-tshirt.jpg",
+        "price": 24.99
+      },
+      {
+        "id": 14,
+        "name": "Adidas Adizero Adios 5 Running Shoes",
+        "description": "Fast and lightweight running shoes for competitive runners.",
+        "image": "/images/adidas-running-shoes.jpg",
+        "price": 149.99
+      },
+      {
+        "id": 15,
+        "name": "Easton Ghost Advanced Fastpitch Softball Bat",
+        "description": "High-performance composite softball bat for power hitters.",
+        "image": "/images/easton-softball-bat.jpg",
+        "price": 349.99
+      },
+      {
+        "id": 16,
+        "name": "Yonex Astrox 99 Badminton Racquet",
+        "description": "Professional-grade badminton racquet with enhanced power and control.",
+        "image": "/images/yonex-badminton-racquet.jpg",
+        "price": 249.99
+      },
+      {
+        "id": 17,
+        "name": "Smith Optics Quantum MIPS Ski Helmet",
+        "description": "Advanced ski helmet with MIPS technology for enhanced safety and comfort.",
+        "image": "/images/smith-ski-helmet.jpg",
+        "price": 279.99
+      },
+      {
+        "id": 18,
+        "name": "Mizuno Wave Lightning Z6 Volleyball Shoes",
+        "description": "Durable and supportive volleyball shoes designed for indoor court play.",
+        "image": "/images/mizuno-volleyball-shoes.jpg",
+        "price": 119.99
+      },
+      {
+        "id": 19,
+        "name": "Spyderco Para 3 Lightweight Folding Knife",
+        "description": "Compact and lightweight folding knife for outdoor and tactical use.",
+        "image": "/images/spyderco-knife.jpg",
+        "price": 129.99
+      },
+      {
+        "id": 20,
+        "name": "Wilson NFL MVP Football",
+        "description": "Official NFL football with durable composite leather cover for recreational play.",
+        "image": "/images/wilson-football.jpg",
+        "price": 29.99
+      },
+      {
+        "id": 21,
+        "name": "Nike Pro Men's Training Shorts",
+        "description": "High-performance training shorts with moisture-wicking technology.",
+        "image": "/images/nike-training-shorts.jpg",
+        "price": 34.99
+      },
+      {
+        "id": 22,
+        "name": "Titleist Pro V1 Golf Balls",
+        "description": "Tour-proven golf balls designed for exceptional distance and control.",
+        "image": "/images/titleist-golf-balls.jpg",
+        "price": 47.99
+      },
+      {
+        "id": 23,
+        "name": "Garmin Forerunner 945 GPS Running Watch",
+        "description": "Advanced running watch with GPS and heart rate monitoring.",
+        "image": "/images/garmin-running-watch.jpg",
+        "price": 499.99
+      },
+      {
+        "id": 24,
+        "name": "Wilson Evolution Indoor Basketball",
+        "description": "High-quality indoor basketball with superior grip and control.",
+        "image": "/images/wilson-basketball.jpg",
+        "price": 59.99
+      },
+      {
+        "id": 25,
+        "name": "Babolat Pure Drive Tennis Racquet",
+        "description": "Powerful and versatile tennis racquet for all court types.",
+        "image": "/images/babolat-tennis-racquet.jpg",
+        "price": 219.99
+      },
+      {
+        "id": 26,
+        "name": "Oakley Radar EV Path Sunglasses",
+        "description": "High-performance sunglasses with interchangeable lenses.",
+        "image": "/images/oakley-sunglasses.jpg",
+        "price": 179.99
+      },
+      {
+        "id": 27,
+        "name": "ASICS Gel-Kayano 27 Running Shoes",
+        "description": "Supportive and cushioned running shoes for long-distance runners.",
+        "image": "/images/asics-running-shoes.jpg",
+        "price": 159.99
+      },
+      {
+        "id": 28,
+        "name": "Reebok CrossFit Nano 9 Training Shoes",
+        "description": "Durable and flexible training shoes for high-intensity workouts.",
+        "image": "/images/reebok-training-shoes.jpg",
+        "price": 129.99
+      },
+      {
+        "id": 29,
+        "name": "Fitbit Charge 4 Fitness and Activity Tracker",
+        "description": "Advanced fitness tracker with GPS and heart rate monitoring.",
+        "image": "/images/fitbit-charge4.jpg",
+        "price": 149.99
+      },
+      {
+        "id": 30,
+        "name": "North Face Borealis Backpack",
+        "description": "Versatile backpack with multiple compartments for outdoor adventures.",
+        "image": "/images/north-face-backpack.jpg",
+        "price": 89.99
+      },
+      {
+        "id": 31,
+        "name": "Callaway Mavrik Driver",
+        "description": "High-performance golf driver with advanced aerodynamics.",
+        "image": "/images/callaway-mavrik-driver.jpg",
+        "price": 499.99
+      },
+      {
+        "id": 32,
+        "name": "New Balance Fresh Foam 1080v10 Running Shoes",
+        "description": "Comfortable and cushioned running shoes for long-distance runs.",
+        "image": "/images/new-balance-running-shoes.jpg",
+        "price": 149.99
+      },
+      {
+        "id": 33,
+        "name": "Columbia Men's Watertight II Jacket",
+        "description": "Waterproof and breathable jacket for outdoor activities.",
+        "image": "/images/columbia-jacket.jpg",
+        "price": 59.99
+      },
+      {
+        "id": 34,
+        "name": "Spalding NBA Official Game Basketball",
+        "description": "Official NBA game basketball with premium leather cover.",
+        "image": "/images/spalding-basketball.jpg",
+        "price": 169.99
+      },
+      {
+        "id": 35,
+        "name": "Brooks Ghost 13 Running Shoes",
+        "description": "Smooth and balanced running shoes for everyday training.",
+        "image": "/images/brooks-running-shoes.jpg",
+        "price": 129.99
+      },
+      {
+        "id": 36,
+        "name": "Nike VaporKnit Strike Soccer Shorts",
+        "description": "Lightweight and breathable soccer shorts for maximum performance.",
+        "image": "/images/nike-soccer-shorts.jpg",
+        "price": 49.99
+      }
+    ]
+  }
+  

@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Fitness Fundamentals",
+      "slug": "fitness-fundamentals",
+      "description": "Master the basics of fitness and exercise with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "Alex Johnson",
+      "isFeatured": true,
+      "image": "/courses/fitness.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Basketball Skills Development",
+      "slug": "basketball-skills-development",
+      "description": "Enhance your basketball skills with expert coaching and tailored drills.",
+      "price": 109.99,
+      "instructor": "Taylor Smith",
+      "isFeatured": false,
+      "image": "/courses/basketball.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Soccer Techniques",
+      "slug": "soccer-techniques",
+      "description": "Learn advanced soccer techniques and strategies for competitive play.",
+      "price": 119.99,
+      "instructor": "Jordan Brown",
+      "isFeatured": true,
+      "image": "/courses/soccer.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Swimming Mastery",
+      "slug": "swimming-mastery",
+      "description": "Achieve mastery in swimming with specialized training programs for all skill levels.",
+      "price": 129.99,
+      "instructor": "Chris Martinez",
+      "isFeatured": false,
+      "image": "/courses/swimming.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Athletic Conditioning",
+      "slug": "athletic-conditioning",
+      "description": "Improve your overall athletic conditioning with personalized fitness regimens.",
+      "price": 139.99,
+      "instructor": "Michael Davis",
+      "isFeatured": false,
+      "image": "/courses/conditioning.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Sports Nutrition Essentials",
+      "slug": "sports-nutrition-essentials",
+      "description": "Understand the essentials of sports nutrition to optimize your performance and recovery.",
+      "price": 149.99,
+      "instructor": "Jessica Martinez",
+      "isFeatured": true,
+      "image": "/courses/nutrition.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Tennis Tactics",
+      "slug": "tennis-tactics",
+      "description": "Master tactical approaches and strategies for competitive tennis matches.",
+      "price": 159.99,
+      "instructor": "David Brown",
+      "isFeatured": false,
+      "image": "/courses/tennis.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Golf Swing Mechanics",
+      "slug": "golf-swing-mechanics",
+      "description": "Refine your golf swing mechanics with expert guidance and video analysis.",
+      "price": 169.99,
+      "instructor": "Emily Wilson",
+      "isFeatured": true,
+      "image": "/courses/golf.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Martial Arts Fundamentals",
+      "slug": "martial-arts-fundamentals",
+      "description": "Explore the fundamentals of martial arts for self-defense and physical fitness.",
+      "price": 179.99,
+      "instructor": "Chris Morales",
+      "isFeatured": false,
+      "image": "/courses/martial-arts.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Running Technique Optimization",
+      "slug": "running-technique-optimization",
+      "description": "Optimize your running technique to enhance speed, endurance, and injury prevention.",
+      "price": 189.99,
+      "instructor": "Luke Harris",
+      "isFeatured": true,
+      "image": "/courses/running.jpg"
+    }
+  ]
+}
