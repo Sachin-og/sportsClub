@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    output: "export",
+  output: 'export',
+  exportTrailingSlash: true,
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/singhal_sports_club/' : '',
     images: {
         domains:['images.unsplash.com'],
         remotePatterns: [
