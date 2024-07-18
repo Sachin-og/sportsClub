@@ -12,7 +12,6 @@ const SignInPage: React.FC = () => {
 
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    // Simulate authentication (replace with actual authentication logic)
     if (email === 'user@example.com' && password === 'password') {
       router.push('/');
     } else {
