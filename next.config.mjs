@@ -3,7 +3,7 @@ const nextConfig = {
   output: 'export',
   trailingSlash: true,
   basePath: '/sportsClub',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/singhal_sports_club/' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/sportsClub/' : '',
     images: {
         unoptimized: true,
         domains:['images.unsplash.com'],

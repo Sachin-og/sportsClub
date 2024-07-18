@@ -1,3 +1,4 @@
+
 // src/context/CartContext.tsx
 
 import React, { createContext, useContext, useState } from "react";
@@ -49,7 +50,6 @@ export const CartProvider: React.FC<{ children: React.ReactNode }> = ({ children
   return (
     <CartContext.Provider value={{ cart, addToCart, removeFromCart }}>
       {children}
-      console.log("clicked");
     </CartContext.Provider>
   );
 };

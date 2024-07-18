@@ -1,21 +1,21 @@
-'use client'
-import React, { useState } from 'react';
-import { useRouter } from 'next/navigation';
+"use client"
+import React, { useState } from "react";
+import { useRouter } from "next/navigation";
 
 const SignInPage: React.FC = () => {
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
-  const [confirmPassword, setConfirmPassword] = useState('');
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const [confirmPassword, setConfirmPassword] = useState("");
   const [showConfirmPassword, setShowConfirmPassword] = useState(false);
-  const [error, setError] = useState('');
+  const [error, setError] = useState("");
   const router = useRouter();
 
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    if (email === 'user@example.com' && password === 'password') {
-      router.push('/');
+    if (email === "userexample@gmail.com" && password === "password") {
+      router.push("/");
     } else {
-      setError('Invalid email or password. Please try again.');
+      setError("Invalid email or password. Please try again.");
     }
   };
 
@@ -103,7 +103,7 @@ const SignInPage: React.FC = () => {
         {!showConfirmPassword && (
           <div className="mt-6 text-center text-sm">
             <p className="text-gray-300">
-              Don't have an account?{' '}
+              Do not have an account?{" "}
               <button
                 onClick={handleSignUpClick}
                 className="font-medium text-blue-500 hover:text-blue-400 focus:outline-none"
