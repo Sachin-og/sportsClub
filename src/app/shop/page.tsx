@@ -4,7 +4,6 @@ import Image from "next/image";
 import React, { useState } from "react";
 import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
 import sportsData from "@/data/sports_products.json";
-
 // Define Product and CartItem types
 interface Product {
   id: number;
@@ -87,8 +86,8 @@ function SportsShopPage() {
                 {product.description}
               </CardItem>
               <CardItem translateZ="100" className="w-full mt-4">
-                <Image
-                  src={product.image}
+                <img
+                  src={"/sportsClub"+product.image}
                   height="400"
                   width="400"
                   className="h-40 sm:h-60 w-full object-cover rounded-xl group-hover:shadow-xl"
