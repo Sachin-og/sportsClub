@@ -5,7 +5,7 @@ const nextConfig = {
   basePath: '/sportsClub',
   assetPrefix: process.env.NODE_ENV === 'production' ? '/sportsClub/' : '',
     images: {
-        unoptimized: true,
+        unoptimized: false,
         domains:['images.unsplash.com'],
         remotePatterns: [
           {
